@@ -1,4 +1,4 @@
-# Marco Gallegos
+# Marco Gallegos 🦝
 
 Bienvenido a mi página de perfil. Soy Marco Gallegos, un ingeniero, mercadólogo, diseñador, productor, fotógrafo y editor apasionado por transformar proyectos ordinarios en extraordinarios.
 
@@ -8,17 +8,17 @@ Desde muy joven, me fascinó el mundo de la tecnología y la creatividad. He ded
 
 ## Mis intereses
 
-- **Tecnología:** Siempre estoy al tanto de las últimas tendencias y avances tecnológicos.
-- **Marketing:** Me encanta crear estrategias que conecten a las marcas con su audiencia de manera auténtica.
-- **Diseño:** El diseño es una herramienta poderosa para comunicar ideas y emociones.
-- **Fotografía y Video:** Capturar momentos y contar historias a través de imágenes es una de mis mayores pasiones.
+- **💻 Tecnología:** Siempre estoy al tanto de las últimas tendencias y avances tecnológicos.
+- **📈 Marketing:** Me encanta crear estrategias que conecten a las marcas con su audiencia de manera auténtica.
+- **🎨 Diseño:** El diseño es una herramienta poderosa para comunicar ideas y emociones.
+- **📸 Fotografía y Video:** Capturar momentos y contar historias a través de imágenes es una de mis mayores pasiones.
 
 ## Cursos y Asesoría
 
 Ofrezco cursos y asesoría en las siguientes áreas:
 
-- **Creación de Chat Bots con IQ:** Aprende a diseñar y desarrollar chat bots inteligentes para mejorar la interacción con tus clientes.
-- **Uso de Modelos de Lenguaje (LLMs):** Descubre cómo utilizar modelos de lenguaje para potenciar tu negocio, desde la automatización de tareas hasta la generación de contenido creativo.
+- **🤖 Creación de Chat Bots con IQ:** Aprende a diseñar y desarrollar chat bots inteligentes para mejorar la interacción con tus clientes.
+- **🧠 Uso de Modelos de Lenguaje (LLMs):** Descubre cómo utilizar modelos de lenguaje para potenciar tu negocio, desde la automatización de tareas hasta la generación de contenido creativo.
 
 ## Contacto
 
@@ -40,8 +40,8 @@ Creo firmemente en el poder de la perseverancia y la mejora continua. Como dice 
 
 A lo largo de mi carrera, he trabajado en una variedad de proyectos interesantes. Aquí algunos de los más destacados:
 
-- **Makers Marketing:** Una plataforma que conecta a creativos con oportunidades en marketing y diseño.
-- **Producción Audiovisual:** He producido y editado contenido para diversas marcas y eventos.
+- **🚀 Makers Marketing:** Una plataforma que conecta a creativos con oportunidades en marketing y diseño.
+- **🎬 Producción Audiovisual:** He producido y editado contenido para diversas marcas y eventos.
 
 ## Agradecimientos
 
