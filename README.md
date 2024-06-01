@@ -17,7 +17,7 @@ Desde muy joven, me fascinó el mundo de la tecnología y la creatividad. He ded
 
 Ofrezco cursos y asesoría en las siguientes áreas:
 
-- **🤖 Creación de Chat Bots con IQ:** Aprende a diseñar y desarrollar chat bots inteligentes para mejorar la interacción con tus clientes.
+- **🤖 Creación de Chat Bots con IA:** Aprende a diseñar y desarrollar chat bots inteligentes para mejorar la interacción con tus clientes.
 - **🧠 Uso de Modelos de Lenguaje (LLMs):** Descubre cómo utilizar modelos de lenguaje para potenciar tu negocio, desde la automatización de tareas hasta la generación de contenido creativo.
 
 ## Contacto
