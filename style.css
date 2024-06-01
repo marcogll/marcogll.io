@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700&display=swap');
 
 :root {
     --bgColor: #223344;
     --bgColor2: #090a0f;
     --accentColor: #FFF;
-    --font: 'Karla', sans-serif;
+    --font: 'Ubuntu', sans-serif;
     --delay: .3s;
     --bioFontSize: 1rem; /* Font size for the bio */
     --quoteFontSize: .7rem; /* Font size for the quote */
@@ -160,7 +160,7 @@ body {
     }
 }
 
-#whatsappTitle {
+#whatsappTitle, #vanityTitle {
     color: var(--accentColor);
     font-size: 1.5rem; /* Tamaño ajustado del título */
     font-weight: bold;
@@ -168,6 +168,19 @@ body {
     margin-top: 50px;
     margin-bottom: 10px; /* Espaciado entre el título y el botón */
     font-family: var(--font);
+}
+
+#vanityLocations {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin: 20px auto;
+    max-width: 675px;
+}
+
+#vanityLocations .link {
+    flex: 1;
+    margin: 0 5px;
 }
 
 @keyframes animStar {
